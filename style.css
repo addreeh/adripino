@@ -1386,6 +1386,12 @@ main article h1 {
 /* --------------------------------------------------------------------------------------------- */
 
 @media screen and (min-width: 700px) and (max-width: 1050px){
+
+  html{
+    overflow: hidden;
+    height: -webkit-fill-available;
+  }
+  
   /* menu */
   .navigation {
     width: 55vh;
@@ -1408,6 +1414,12 @@ main article h1 {
 }
 
 @media screen and (min-width: 500px) and (max-width: 700px){
+
+  html{
+    overflow: hidden;
+    height: -webkit-fill-available;
+  }
+  
   /* menu */
   .navigation {
     width: 55vh;
@@ -1424,6 +1436,12 @@ main article h1 {
 
 
 @media screen and (min-width: 412px) and (max-width: 420px){
+
+  html{
+    overflow: hidden;
+    height: -webkit-fill-available;
+  }
+  
   /* menu */
   .navigation {
     width: 44vh;
@@ -1434,6 +1452,12 @@ main article h1 {
 }
 
 @media screen and (min-width: 400px) and (max-width: 412px){
+
+  html{
+    overflow: hidden;
+    height: -webkit-fill-available;
+  }
+  
   /* menu */
   .navigation {
     width: 45vh;
@@ -1444,6 +1468,12 @@ main article h1 {
 }
 
 @media screen and (min-width: 380px) and (max-width: 400px){
+
+  html{
+    overflow: hidden;
+    height: -webkit-fill-available;
+  }
+  
   /* menu */
   .navigation {
     width: 45vh;
@@ -1454,6 +1484,12 @@ main article h1 {
 }
 
 @media screen and (min-width: 360px) and (max-width: 380px){
+
+  html{
+    overflow: hidden;
+    height: -webkit-fill-available;
+  }
+  
   /* menu */
   .navigation {
     width: 44vh;
@@ -1464,6 +1500,12 @@ main article h1 {
 }
 
 @media screen and (min-width: 350px) and (max-width: 360px){
+
+  html{
+    overflow: hidden;
+    height: -webkit-fill-available;
+  }
+
   /* menu */
   .navigation {
     width: 45vh;
@@ -1477,6 +1519,7 @@ main article h1 {
 
   html{
     overflow: hidden;
+    height: -webkit-fill-available;
   }
 
 /* share */
